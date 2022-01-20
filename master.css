@@ -1,0 +1,59 @@
+  
+  
+  
+  
+  .icon {
+    font-family: "font awesome 5 free";
+    position: initial;
+    
+    border: solid 12px #ff0000ba;
+    padding: 12px 0 6px;
+    margin-left: 2px;
+    margin-bottom: -46px;
+    margin-top: -4px;
+    line-height: 24px;
+    display: inline-block;
+  }
+
+    h2 {
+     
+      
+    }
+
+    header {
+      
+          
+          text-align: center;
+         padding-bottom: 20px;
+         letter-spacing: 30px;
+         
+         padding-top: 91px;
+         font-family: Arial, Helvetica, sans-serif;
+         font-weight: 400px;         
+    }
+
+
+
+
+  .text {
+
+        padding-bottom: 25px;
+        background-image: url(file:///E:/myproject/istockphoto-1327024466-170667a.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-bottom: auto;
+        height: 700px;
+        text-align: left;
+        font-size: 30px;
+        padding-top: 238px;
+  }
+
+    .button{
+      color: darkgray;
+    }
+
+   .decoration {
+     border-color: rgb(231, 19, 19);
+   }
+  
+     
